@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #edf2f6;
+  padding: 100px;
+}
+
+.hero_image {
+  position: absolute;
+  height: 100%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.hero_heading {
+  font-size: 54px;
+  font-weight: 400;
+  width: 65%;
+}
